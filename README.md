@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Steven Luu
 - 🐸I am interested in full stack development! I have passion for software development 
 - 🌱 I’m currently learning through General Assembly in their full-stack Sofware Engineering Course
-- 
 - 📫 find me on: LinkedIn https://www.linkedin.com/in/stevluu/
 
 <!---
